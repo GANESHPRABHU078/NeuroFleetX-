@@ -1,0 +1,9 @@
+public class SimpleDataTypes2 {
+    public static void main(String[] args) {
+        char grade = 'B';
+        boolean isStudent = true;
+
+        System.out.println("Grade: " + grade);
+        System.out.println("Is Student: " + isStudent);
+    }
+}
