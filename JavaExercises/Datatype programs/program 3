@@ -1,0 +1,7 @@
+public class SimpleDataTypes3 {
+    public static void main(String[] args) {
+        String name = "Ganesh";
+
+        System.out.println("Name: " + name);
+    }
+}
